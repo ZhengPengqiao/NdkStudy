@@ -56,3 +56,5 @@ obj/
 *.swp
 *~
 libNativeByNdkBuild.so
+
+.externalNativeBuild
